@@ -1,0 +1,45 @@
+/* DonateAndFundPage.css */
+
+.token-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+}
+
+.token-table th,
+.token-table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+
+.token-table th {
+    background-color: #f2f2f2;
+}
+
+.donation-section {
+    margin-top: 20px;
+}
+
+.donation-row {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+
+.usd-equivalent {
+    font-size: 14px;
+    color: #555;
+}
+
+.donate-button {
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+.donate-button:hover {
+    background-color: #45a049;
+}

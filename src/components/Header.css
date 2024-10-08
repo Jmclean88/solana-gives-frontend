@@ -1,0 +1,14 @@
+/* Header.css */
+.logo {
+    color: inherit;
+    text-decoration: none;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+.MuiButton-root {
+    text-transform: none;
+}
